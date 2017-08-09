@@ -31,6 +31,8 @@ Looking into the data ourselves, a few things are immediately obvious.
 
 1. The US is really over represented in the data!  
 
+![picture](img/events_by_country.png)
+
 This makes sense since the FDA primarily acts within the United States and associated territories. However, there are a significant numbers of adverse events reported from Europe, Asia and South America. This may be interesting since - to my current understanding - drugs approved by the FDA are approved for use within the US. Perhaps these reported events are from travellers, military, or other US citizens.  
 
 
