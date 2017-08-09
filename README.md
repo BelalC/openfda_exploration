@@ -88,5 +88,5 @@ Given these limits of the dataset, it's probably best to derive aggregate statis
 CONCLUSION
 -
 
-This is a really rich dataset and I hope this very small contribution has given you a flavour of what can be done with the data. Please feel to reach out if I can help you conduct your own analyses in any way! :D
+This is a really rich dataset and I hope this very small contribution has given you a flavour of what can be done with the data. Please feel to reach out if I can help you conduct your own analyses in any way!
 
