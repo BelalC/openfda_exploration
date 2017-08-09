@@ -18,7 +18,7 @@ Looking into the data ourselves, a few things are immediately obvious.
 
 1. The US is really over represented in the data!  
 
-![picture](events_by_country.png)
+![picture](data/events_by_country.png)
 
 This makes sense since the FDA primarily acts within the United States and associated territories. However, there are a significant numbers of adverse events reported from Europe, Asia and South America. This may be interesting since - to my current understanding - drugs approved by the FDA are approved for use within the US. Perhaps these reported events are from travellers, military, or other US citizens.  
 
@@ -29,7 +29,7 @@ This makes sense since the FDA primarily acts within the United States and assoc
   - INAPPROPRIATE SCHEDULE OF DRUG ADMINISTRATION  
   - NO ADVERSE EVENT  
 
-![alt text](common_events.png)
+![alt text](data/common_events.png)
 
 This is interesting since OFF LABEL USE - the use of pharmaceutical drugs for an unapproved indication or in an unapproved age group, dosage, or route of administration - might account for those overseas reported events! It also represents an issue for pharmaceutical companies, since their medicines are being in inapproroprate and potentially dangerous ways. Further analysing this specific event, we also see that it is mainly "CONSUMERS / NON-MEDICAL PROFESSIONALS" who report OFF LABEL USE; we might expect these kinds of events to reported by medical professionals! The 'NO ADVERSE EVENT' is also not quite intuitive - why was an adverse report submitted to say there was no adverse event? There is probably reason which should present itself with some more digging into the API documentation!
 
